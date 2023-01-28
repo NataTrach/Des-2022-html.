@@ -1,0 +1,33 @@
+.father {
+    display: flex;
+    width: 600px;
+    margin-right: 40px;
+    margin-left: 40px;
+;
+}
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 40px;
+    row-gap: 100px;
+}
+
+
+img {
+    width: 200px;
+    display: block;
+    border: 1px solid blueviolet;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+p {
+    text-align: justify;
+    background: silver;
+    box-sizing: border-box;
+    border: 10px solid blanchedalmond;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px 20px 30px 40px;
+
+}

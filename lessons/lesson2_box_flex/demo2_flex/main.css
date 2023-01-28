@@ -30,5 +30,6 @@ body {
 }
 
 .box:nth-child(3n+3) {
+
     background: greenyellow;
 }
