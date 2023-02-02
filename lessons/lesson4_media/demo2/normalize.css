@@ -1,0 +1,7 @@
+.father{
+    background: silver;
+}
+.box{
+    height: 200px;
+    background: linear-gradient(120deg,red,blue);
+}
